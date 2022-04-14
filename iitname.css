@@ -1,0 +1,17 @@
+/*CSS style sheet for IIT_Name page 1 & 2 as well as for
+ State_Name Page 1 & 2*/
+.bg-container {
+    background-image: url('https://gumlet.assettype.com/swarajya%2F2016-10%2F6a8edcbc-6fdf-49fb-8103-d0e012ad0164%2FIIT_KGP_Main_Building.JPG?rect=0%2C28%2C1200%2C675&w=640&q=75&auto=format%2Ccompress');
+    height: 100vh;
+    background-size: cover;
+    padding-right: 2vw;
+    padding-left: 2vw;
+}
+
+.btnn{
+    margin-top: 5px;
+    width: 260px;
+    margin-left: 43vw;
+    background-color: white;
+    border-radius: 8px;
+}

@@ -1,0 +1,47 @@
+/*CSS style sheet for IITB*/
+.bg-container {
+    background-image: url('https://th.bing.com/th/id/R.11dc8775e54e58eab0d47efa5f426221?rik=0m8MAwwKSSeE3g&riu=http%3a%2f%2fwww.eduvidya.com%2fadmin%2fUpload%2fInstitutes%2f635134676511299561_IIT+Bombay.jpg&ehk=II77RmwI1bFD6hHy0k9qUeEfXHOUb6HmhzWiBuim3Ms%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1');
+    height: 100vh;
+    background-size: cover;
+    padding-right: 2vw;
+    padding-left: 2vw;
+    padding: 10px;
+}
+
+.fav-headk2 {
+    font-family: "Careat";
+    font-style: italic;
+    color: black;
+    font-weight: bold;
+    font-size: 36px;
+    padding: 10px;
+}
+
+.cd-containerk2 {
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 500px;
+}
+
+.cd-headk2 {
+    font-family: "Roboto";
+    font-style: italic;
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.cd-parak2 {
+    font-family: "Roboto";
+    color: black;
+    font-size: 12px;
+}
+
+.cd-imagek2 {
+    height: 120px;
+    width: 180px;
+    margin: 7px;
+}

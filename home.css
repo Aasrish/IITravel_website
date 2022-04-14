@@ -1,0 +1,26 @@
+/*CSS style sheet for Home Page*/
+.bg-container {
+    background-image: url('https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/35955/2021/1/28/Cover%20Photo.jpg');
+    height: 100vh;
+    background-size: cover;
+    padding-right: 2vw;
+    padding-left: 2vw;
+}
+
+.card {
+    background-color: white;
+    text-align: center;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    padding: 5px;
+}
+.btnn{
+    margin-top: 10px;
+    width: 130px;
+    margin-left: 43vw;
+}
+.headk2{
+    font-family:'Lucida Sans';
+    font-style:italic ;
+    
+}

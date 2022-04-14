@@ -1,0 +1,21 @@
+/*CSS style sheet for second page of the website*/
+.bg-container {
+    background-image: url('https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2013/07/IIT-Delhi.jpg');
+    height: 100vh;
+    background-size: cover;
+    padding-right: 2vw;
+    padding-left: 2vw;
+}
+
+.btnn{
+    margin-top: 10px;
+    width: 260px;
+    margin-left: 43vw;
+    background-color: white;
+    border-radius: 8px;
+}
+.headk2{
+    font-family:'Lucida Sans';
+    font-style:italic ;
+    
+}

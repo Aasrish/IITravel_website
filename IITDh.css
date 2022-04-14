@@ -1,0 +1,47 @@
+/*CSS style sheet for IIT ISM*/
+.bg-container {
+    background-image: url('https://th.bing.com/th/id/R.23664c969dd69d8f39bd9fb33d16b52a?rik=Ip3mGAHqmUFQgA&riu=http%3a%2f%2fwww.wishusucess.com%2fwp-content%2fuploads%2f2020%2f06%2fISM-Dhanbad.jpg&ehk=h%2b%2fk8tEU6sbsdOO3lEap1J5XOWMAN1k89oDzHFkji%2fg%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1');
+    height: 100vh;
+    background-size: cover;
+    padding-right: 2vw;
+    padding-left: 2vw;
+    padding: 10px;
+}
+
+.fav-headk2 {
+    font-family: "Careat";
+    font-style: italic;
+    color: black;
+    font-weight: bold;
+    font-size: 36px;
+    padding: 10px;
+}
+
+.cd-containerk2 {
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 500px;
+}
+
+.cd-headk2 {
+    font-family: "Roboto";
+    font-style: italic;
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.cd-parak2 {
+    font-family: "Roboto";
+    color: black;
+    font-size: 12px;
+}
+
+.cd-imagek2 {
+    height: 120px;
+    width: 180px;
+    margin: 7px;
+}

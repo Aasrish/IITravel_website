@@ -1,0 +1,47 @@
+/*CSS style sheet for IITD*/
+.bg-container {
+    background-image: url('https://th.bing.com/th/id/R.03b90463ee3c47aedd1b1723e896fec3?rik=hG3GsYoYEmkV7g&riu=http%3a%2f%2f4.bp.blogspot.com%2f-bzKDfveMRuc%2fUeeFjNd5ufI%2fAAAAAAAAYI8%2fOS1QHO1SW2o%2fs1600%2fIIT%2bDelhi--621x414.jpg&ehk=SEZJnErYR4iry5ZdUNi8FeW6WnDiKFEp2o1n1Zzwghs%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1');
+    height: 100vh;
+    background-size: cover;
+    padding-right: 2vw;
+    padding-left: 2vw;
+    padding: 10px;
+}
+
+.fav-headk2 {
+    font-family: "Careat";
+    font-style: italic;
+    color: black;
+    font-weight: bold;
+    font-size: 36px;
+    padding: 10px;
+}
+
+.cd-containerk2 {
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 500px;
+}
+
+.cd-headk2 {
+    font-family: "Roboto";
+    font-style: italic;
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.cd-parak2 {
+    font-family: "Roboto";
+    color: black;
+    font-size: 12px;
+}
+
+.cd-imagek2 {
+    height: 120px;
+    width: 180px;
+    margin: 7px;
+}
