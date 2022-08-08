@@ -22,5 +22,4 @@ This is a website that helps IITian's to find the nearest Railway Station &amp; 
     i)python manage.py runserver
 2. here step "h" opens the web studio to see and edit the files. Step "i" runs the surver and we can visualize the required website using the link provided.
  Home Page:
-![image](![Home_website](https://user-images.githubusercontent.com/76608418/183463148-ac99e8e5-ccc9-4485-95bf-a6cd5c956d67.png)
-)
+![Home_website](https://user-images.githubusercontent.com/76608418/183463228-9b5c8db8-70e9-45cd-8959-c93b76761c32.png)
