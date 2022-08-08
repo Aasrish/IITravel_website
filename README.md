@@ -28,4 +28,8 @@ This is a website that helps IITian's to find the nearest Railway Station &amp; 
 ## IITJ Home Page:
 ![IITJ details](https://user-images.githubusercontent.com/76608418/183465160-40ae075b-b91f-4243-af5e-a1a7fefc2388.png)
 
+## A glimpse of the website:
+
+https://user-images.githubusercontent.com/76608418/183467653-17d34045-6222-4464-8965-412348fdc481.mp4
+
 
