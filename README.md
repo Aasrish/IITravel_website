@@ -20,4 +20,6 @@ This is a website that helps IITian's to find the nearest Railway Station &amp; 
     g) pip install django
     h) code .
     i)python manage.py runserver
-2. here step h opens the web studio to see and edit the files. Step i runs the surver and we can visualize the required website using the link provided.
+2. here step "h" opens the web studio to see and edit the files. Step "i" runs the surver and we can visualize the required website using the link provided.
+ Home Page:
+![image](https://drive.google.com/file/d/10thzxyjIQ6lntTE_ohmLfnAP6Wj56u0M/view?usp=sharing)
