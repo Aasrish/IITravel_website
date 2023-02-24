@@ -25,4 +25,5 @@ This is a website that helps IITian's to find the nearest Railway Station &amp; 
 
 ## A glimpse of the website:
 https://user-images.githubusercontent.com/76608418/183467981-2bcffe5c-1df6-4e44-b0a1-26c432280a86.mp4
-
+## Details
+This is a course project under course Software Engineering.
